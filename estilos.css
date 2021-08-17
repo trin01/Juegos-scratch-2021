@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+#estilo-id{
+    font-size: 40px;
+    text-align: center;
+    color: #65D13A;  
+    margin-bottom: 50px; 
+}
+
+h2{
+    color: #AB42F8;
+}
+
+h3{
+    color: #F842EA;
+}
+
+#logo{
+    margin-right: 50px;
+    width: 20%;
+    float: right;
+}
